@@ -1,9 +1,6 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
-  "dependencies": {
-    "@primer/css": "17.0.1"
-  },
-  "license": "MIT"
+  "name": "aria-code-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aria Code product website and interactive browser demo"
 }
